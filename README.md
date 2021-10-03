@@ -10,24 +10,31 @@
 
 ## Code Problems
 
-1. Write a function named `countToTen` that console.logs all the integers from 1 to 10. 
+1. Write a function named `countFromOne` that takes in an integer argument, and console.logs all the integers from 1 up to the given integer. 
 
-2. Write a function named `countFromOne` that takes in an integer argument, and console.logs all the integers from 1 up to the given integer. 
-
-3. Write a function named `countEveryEven` that takes in an integer argument, and console.logs all the *even* integers from 1 up to the given integer, including the given integer. 
-```
-countEveryEven(10) // logs 2 4 6 8 10
-```
-
-4. Write a function named `countEveryOdd` that takes in an integer argument, and console.logs all the *odd* integers from 1 up to the given integer, including the given integer. 
+2. Write a function named `countEveryOdd` that takes in an integer argument, and console.logs all the *odd* integers from 1 up to the given integer, including the given integer. 
 ```
 countEveryOdd(10) // logs 1 3 5 7 9
 ```
 
-### Bonus 
-6. Write a fucntion named `countEvens` that takes in an array of integers and returns the number of integers in the array that are even numbers. 
+3. Write a function named `betweenFiveAndTwenty` that takes in an integer parameter, and checks whether a given integer is within 5 and 20. It returns `true` if it is and `false` if not.
 ```
-countEven([1,2,3,4,5,6,7,8,9,12]) // returns 5
-countEven([1,2,22,204]) // returns 3
-countEven([1,3,7,17,19]) // returns 0
+betweenFiveAndTwenty(10) // logs true
+betweenFiveAndTwenty(6) // logs true
+betweenFiveAndTwenty(100) // logs false
+```
+
+4. Write a function named `isAllLowerCase` that takes in a string parameter, and returns true or false if the string consists of only lowercase letters.
+```
+isAllLowerCase("hello") //returns true
+isAllLowerCase("seven eleven") //returns true
+isAllLowerCase("Seven eleven has the best slushies") //returns false
+```
+
+### Bonus 
+5. Write a fucntion named `countMultiplesOfFive` that takes in an array of integers and returns the number of integers in the array that are multiples of five. 
+```
+countMultiplesOfFive([1,2,3,4,5,6,7,8,9,10]) // returns 2
+countMultiplesOfFive([15,23,35,45,67]) // returns 3
+countMultiplesOfFive([2,6,14]) // returns 0
 ```
