@@ -26,8 +26,8 @@ isNegative(Math.PI)   //returns false
 
 4. Write a function named `betweenFiveAndTwenty` that takes in an integer parameter, and checks whether a given integer is within 5 and 20. It returns `true` if it is and `false` if not.
 ```
-betweenFiveAndTwenty(10) // returns true
-betweenFiveAndTwenty(6) // returns true
+betweenFiveAndTwenty(12) // returns true
+betweenFiveAndTwenty(5) // returns true
 betweenFiveAndTwenty(100) // returns false
 ```
 
