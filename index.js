@@ -1,25 +1,25 @@
 //1
-function countToTen(){
-  
-}
-
-//2
 function countFromOne(){
   
 }
 
-//3
-function countEveryEven(){
-  
-}
-
-//4
+//2
 function countEveryOdd(){
   
 }
 
+//3
+function isNegative(){
+  
+}
+
+//4
+function betweenFiveAndTwenty(){
+  
+}
+
 //5 
-function countEvens(){
+function isAllLowerCase(){
   
 }
 
