@@ -2,7 +2,7 @@
 
 ## Instructions
 
-2. Clone down this assignment to your `code-challenges' directory in AWS Cloud9.  
+2. Clone down this assignment to your `code-challenges' directory in VScode.  
 3. Code your solution using JavaScript in `index.js`. 
 4. **Be sure to run and test your code throughly!**
 5. By the end of Code Challenge, **commit and push your changes up to Github**.
