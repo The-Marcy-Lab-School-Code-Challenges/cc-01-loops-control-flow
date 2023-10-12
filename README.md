@@ -39,7 +39,7 @@ isAllLowerCase("Seven eleven has the best slushies") //returns false
 ```
 
 ### Bonus 
-6. Write a fucntion named `countMultiplesOfFive` that takes in an array of integers and returns the number of integers in the array that are multiples of five. 
+6. Write a function named `countMultiplesOfFive` that takes in an array of integers and returns the number of integers in the array that are multiples of five. 
 ```
 countMultiplesOfFive([1,2,3,4,5,6,7,8,9,10]) // returns 2
 countMultiplesOfFive([15,23,35,45,67]) // returns 3
