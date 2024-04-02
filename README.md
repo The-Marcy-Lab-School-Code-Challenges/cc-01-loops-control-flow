@@ -17,7 +17,7 @@
 countEveryOdd(10) // logs 1 3 5 7 9
 ```
 
-3.Write a function `isNegative` that takes in a number parameter and returns true if the number is a negative value and false if the number is a positive value.
+3. Write a function `isNegative` that takes in a number parameter and returns true if the number is a negative value and false if the number is a positive value.
 ```
 isNegative(3)         //returns false
 isNegative(-2)        //returns true
