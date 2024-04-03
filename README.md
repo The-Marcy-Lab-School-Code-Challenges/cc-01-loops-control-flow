@@ -31,7 +31,12 @@ betweenFiveAndTwenty(5) // returns true
 betweenFiveAndTwenty(100) // returns false
 ```
 
-5. Write a function named `isAllLowerCase` that takes in a string parameter, and returns true or false if the string consists of only lowercase letters.
+5. Write a function named `sumOfThreeAndFive` that returns the sum of all the multiples of 3 and multiples of 5 from 1 to 1000.
+```
+sumOfThreeAndFive() //returns 233168
+```
+
+6. Write a function named `isAllLowerCase` that takes in a string parameter, and returns true or false if the string consists of only lowercase letters.
 ```
 isAllLowerCase("hello") //returns true
 isAllLowerCase("seven eleven") //returns true
@@ -39,7 +44,7 @@ isAllLowerCase("Seven eleven has the best slushies") //returns false
 ```
 
 ### Bonus 
-6. Write a function named `countMultiplesOfFive` that takes in an array of integers and returns the number of integers in the array that are multiples of five. 
+7. Write a function named `countMultiplesOfFive` that takes in an array of integers and returns the number of integers in the array that are multiples of five. 
 ```
 countMultiplesOfFive([1,2,3,4,5,6,7,8,9,10]) // returns 2
 countMultiplesOfFive([15,23,35,45,67]) // returns 3
