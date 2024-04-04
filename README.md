@@ -31,7 +31,7 @@ betweenFiveAndTwenty(5) // returns true
 betweenFiveAndTwenty(100) // returns false
 ```
 
-5. Write a function named `sumOfThreeAndFive` that returns the sum of all the multiples of 3 and multiples of 5 from 1 to 1000.
+5. Write a function named `sumOfThreeOrFive` that returns the sum of all the multiples of 3 or multiples of 5 from 1 to 1000, exclusive.
 ```
 sumOfThreeAndFive() //returns 233168
 ```
